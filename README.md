@@ -4,11 +4,15 @@
 
 </h1>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhmeXhvcW10ZGxpcjdzczUxdDlndGU1MmpydWtwbjJzN3M5eThqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="250" />
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pythonista-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JS%20Lover-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker" alt="Docker" />
 </p>
 
 <p align="center">
